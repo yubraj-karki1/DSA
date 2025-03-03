@@ -125,7 +125,7 @@ public class WebCrawler {
         // Create a web crawler with 10 threads.
         WebCrawler crawler = new WebCrawler(10);
         // Seed the crawler with initial URLs.
-        crawler.addUrl("https://schoolworkspro.com/modules/st5008cem-programming-for-developers");
+        crawler.addUrl("https://bypass.hix.ai/");
         // crawler.addUrl("https://rahulpajiyar.com.np/");
         // Start the crawling process.
         crawler.startCrawling();
